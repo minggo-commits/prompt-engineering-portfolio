@@ -2,9 +2,9 @@
 
 A curated, production-ready collection of 100 prompt templates organized by task, purpose, and technique. Each template uses parameterized placeholders and includes technique tags so you can showcase breadth and depth in your prompt engineering portfolio.
 
-- Author: {your_name}
+- Author: Minggo Commits AKA Arsan
 - Version: 1.0
-- License: CC BY 4.0 (update if needed)
+- License: CC BY 4.0
 
 ## How to Use
 1) Replace placeholders like {topic}, {audience}, {constraints} with your specifics.
@@ -626,13 +626,5 @@ Guide a 15-minute reflection for {event}. Ask 6 questions that elicit insights a
 
 ---
 
-## Tips to Showcase in Your Portfolio
-- For each prompt, include: purpose, technique(s) used, before/after samples, evaluation rubric, and measurable outcomes.
-- Provide parameterized templates and example-filled versions.
-- Show error cases and how you refined the prompt to handle them.
-- Add tags per prompt (e.g., role, constraints, few-shot) and link demos or gists.
-- Track metrics (exactness, helpfulness, latency, cost) and iteration notes.
-
----
 Changelog
 - 1.0 Initial release with 100 categorized prompts and usage guidance.
