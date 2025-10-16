@@ -36,6 +36,18 @@ A curated, production-ready collection of 100 prompt templates organized by task
 - L10n nuances, Glossary, Translation QA, Self-consistency, Tree-of-thought
 - Compliance, Redaction, Guardrails, Risk register, WBS, KPI tree
 
+## 📝 Specialized Markdown Prompt Engineers
+
+For comprehensive markdown documentation generation, see our specialized prompt engineer guides:
+
+- **[Markdown Prompt Engineer - First](markdown_prompt_engineer_first.md)** - Structured markdown generation template with best practices and formatting guidelines. Ideal for README files, basic documentation, and technical guides.
+
+- **[Markdown Prompt Engineer - Second](markdown_prompt_engineer_second.md)** - Advanced markdown engineering with multi-section documents, validation rules, and complex formatting patterns. Perfect for API documentation, architecture decisions, and integration guides.
+
+- **[Markdown Prompt Engineer - Third](markdown_prompt_engineer_third.md)** - Enterprise-grade documentation systems with AI-assisted workflows, automation, and production-ready templates. Designed for large-scale projects, open-source ecosystems, and technical writing teams.
+
+These specialized prompts build upon the core templates in this portfolio (particularly #22 README scaffolding) with enhanced structure, comprehensive examples, and production-ready patterns.
+
 ---
 
 ## Content Creation and Editing
@@ -160,6 +172,8 @@ Act as a senior {language} engineer. Write a function {function_name} that {beha
 22) README scaffolding [Documentation template]
 ```
 Generate a README for a {project_type}. Sections: Overview, Features, Architecture diagram (ASCII), Getting Started, Configuration, Usage examples, Testing, CI/CD, Security, Roadmap, License.
+
+For more comprehensive markdown documentation generation, see the specialized Markdown Prompt Engineer guides (First, Second, Third editions) in the docs/ folder.
 ```
 
 23) Refactor with rationale [Refactor + Diff]
